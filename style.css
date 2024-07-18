@@ -1,0 +1,13 @@
+html body #text{
+    background-image: url("assets/Bun_bo.jpg");
+    color: rgb(239, 16, 179);
+    width: 100%;
+    height:100%;
+    font-size: 31px;
+    font-style: italic;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 5px;
+    text-align: center;
+}
